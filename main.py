@@ -12,7 +12,7 @@ except ImportError:
 
 # ==========================================
 # এখানে আপনার package.txt এর RAW লিংক দিন
-PACKAGE_URL = "https://github.com/TEAM-CZUCA/termux-setup/blob/main/package.txt"
+PACKAGE_URL = "https://github.com/TEAM-CZUCA/termux-setup/main/package.txt"
 # ==========================================
 
 # Color Codes
