@@ -1,0 +1,20 @@
+# এই ফাইলটি auto-generate হবে প্রথমবার রান করলে
+# কিন্তু আপনি চাইলে নিচের কমান্ড দিয়ে manually তৈরি করতে পারেন:
+
+python3 -c "
+import base64, json
+tools = [
+    {'category':'System & Core','name':'apt','package':'apt','type':'pkg'},
+    {'category':'System & Core','name':'python','package':'python','type':'pkg'},
+    {'category':'System & Core','name':'git','package':'git','type':'pkg'},
+    {'category':'System & Core','name':'openssh','package':'openssh','type':'pkg'},
+    {'category':'Security','name':'nmap','package':'nmap','type':'pkg'},
+    {'category':'Security','name':'hydra','package':'hydra','type':'pkg'},
+    {'category':'Python Packages','name':'requests','package':'requests','type':'pip'},
+    {'category':'Python Packages','name':'rich','package':'rich','type':'pip'},
+    {'category':'Ruby Gems','name':'lolcat','package':'lolcat','type':'gem'}
+]
+enc = base64.b64encode(json.dumps(tools)[::-1].encode()).decode()
+open('tools.enc','w').write(enc)
+print('tools.enc created!')
+"
