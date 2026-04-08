@@ -38,17 +38,11 @@ cd termux-setup
 
 # 5. Run the tool
 python main.py
-'''
 ```
-🛠️ Files Included
-main.py - The core execution script.
-package.txt - List of all the essential packages and tools to be installed.
-banner.txt - Custom ASCII text banner for the tool.
-🔐 Default Credentials
-Password: czuca (Change it inside the main.py file)
-📞 Contact & Support
-Facebook Page: TEAM-CZUCA
-Developer: LEVIATHAN DRIFT 419
-⚠️ Disclaimer
-This tool is made for educational purposes only. The developer is not responsible for any misuse of this tool. Do not use it for illegal activities.
-Made with ❤️ by TEAM-CZUCA
+⚠️ Important Notes
+Storage Permission: Allow storage permission if a popup appears on your screen (termux-setup-storage).
+Internet Connection: Make sure you have a stable internet connection before running the script.
+Patience: Installing all packages might take 5-15 minutes depending on your internet speed.
+🛡️ Disclaimer
+This tool is created for educational purposes and to automate the environment setup for developers and ethical hackers. TEAM-CZUCA is not responsible for any misuse.
+<p align="center">Made with ❤️ by <b>LEVIATHAN DRIFT 419</b></p>
