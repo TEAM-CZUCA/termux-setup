@@ -38,11 +38,15 @@ cd termux-setup
 
 # 5. Run the tool
 python main.py
+
 ```
+
 ⚠️ Important Notes
 Storage Permission: Allow storage permission if a popup appears on your screen (termux-setup-storage).
 Internet Connection: Make sure you have a stable internet connection before running the script.
 Patience: Installing all packages might take 5-15 minutes depending on your internet speed.
+```
 🛡️ Disclaimer
 This tool is created for educational purposes and to automate the environment setup for developers and ethical hackers. TEAM-CZUCA is not responsible for any misuse.
+```
 <p align="center">Made with ❤️ by <b>LEVIATHAN DRIFT 419</b></p>
