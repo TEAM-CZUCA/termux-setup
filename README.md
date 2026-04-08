@@ -7,12 +7,16 @@ Welcome to the **TEAM-CZUCA** Setup Tool! This is an advanced, automated script 
 ![Platform](https://img.shields.io/badge/Platform-Termux-orange.svg)
 
 ## 🌟 Features
-- **Password Protected:** Secure login system.
-- **Auto Permissions:** Automatically requests Termux storage permissions.
-- **Interactive Menu:** Easy-to-use option menu.
-- **Auto Update:** Keep the tool updated with the latest version from GitHub.
-- **Social Media Redirection:** Automatically redirects to the admin's Facebook page.
-- **Typing Animations:** Beautiful UI with typing effects and custom banners.
+- 🔐 **Password Protected:** Secure login system.
+- ⚙️ **Auto Permissions:** Automatically requests Termux storage permissions.
+- 📋 **Interactive Menu:** Easy-to-use option menu.
+- 🔄 **Auto Update:** Keep the tool updated with the latest version from GitHub.
+- 🌐 **Social Media Redirection:** Automatically redirects to the admin's Facebook page.
+- ✨ **Typing Animations:** Beautiful UI with typing effects and custom banners.
+
+## 🗝️ Password Protected
+> **🛡️ Only For Our Crew**
+> This tool is strictly protected. You need the correct password to access the main menu.
 
 ## 📦 Requirements
 - Termux App
