@@ -1,4 +1,4 @@
-# 💀 TEAM-CZUCA Termux Basic Setup Tool 💀
+#  TEAM-Cyber Zulfiqar Under Cover Agency Termux Setup Tool 
 
 Welcome to the **TEAM-CZUCA** Setup Tool! This is an advanced, automated script for Termux users to install essential basic packages, programming languages, and hacking tools with just a single click.
 
