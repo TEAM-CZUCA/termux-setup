@@ -23,7 +23,7 @@ Welcome to the **TEAM-CZUCA** Setup Tool! This is an advanced, automated script 
 
 Follow these simple commands to install and run the tool in your Termux:
 
-```bash
+```
 # 1. Update and upgrade your Termux packages
 pkg update && pkg upgrade -y
 
@@ -38,6 +38,8 @@ cd termux-setup
 
 # 5. Run the tool
 python main.py
+'''
+```
 🛠️ Files Included
 main.py - The core execution script.
 package.txt - List of all the essential packages and tools to be installed.
