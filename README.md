@@ -24,21 +24,15 @@ Welcome to the **TEAM-CZUCA** Setup Tool! This is an advanced, automated script 
 Follow these simple commands to install and run the tool in your Termux:
 
 ```
-# 1. Update and upgrade your Termux packages
 pkg update && pkg upgrade -y
 
-# 2. Install Git and Python
 pkg install git python -y
 
-# 3. Clone the repository (Replace with your actual GitHub repo link)
 git clone https://github.com/TEAM-CZUCA/termux-setup.git
 
-# 4. Navigate to the directory
 cd termux-setup
 
-# 5. Run the tool
 python main.py
-
 ```
 
 ⚠️ Important Notes
